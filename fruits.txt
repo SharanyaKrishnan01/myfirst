@@ -1,0 +1,5 @@
+welcome to fruit shop
+mango
+orange
+apple
+banana
